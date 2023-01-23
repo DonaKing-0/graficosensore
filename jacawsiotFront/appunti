@@ -1,0 +1,225 @@
+[
+    {
+        "_id": "63c5316b2bbcd794483c334a",
+        "timestamp": "1673867627808",
+        "hum": "55",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c531752bbcd794483c334c",
+        "timestamp": "1673867637808",
+        "hum": "55",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c5317f2bbcd794483c334e",
+        "timestamp": "1673867647808",
+        "hum": "55",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c531c52295cd34775632a9",
+        "timestamp": "1673867717808",
+        "hum": "55.099998",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c531cf2295cd34775632ab",
+        "timestamp": "1673867727808",
+        "hum": "55.200001",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c531d92295cd34775632ad",
+        "timestamp": "1673867737808",
+        "hum": "55.200001",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c5326f0fbc16c4042bfdba",
+        "timestamp": "1673867887808",
+        "hum": "55.400002",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c532c976605cef37da3912",
+        "timestamp": "1673867977808",
+        "hum": "55.400002",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c532d376605cef37da3915",
+        "timestamp": "1673867987808",
+        "hum": "55.400002",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c532dd76605cef37da3918",
+        "timestamp": "1673867997808",
+        "hum": "55.5",
+        "value": "22.200001",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c532e776605cef37da391b",
+        "timestamp": "1673868007808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "__v": 0
+    },
+    {
+        "_id": "63c5339b863f61f2a122ce80",
+        "timestamp": "1673868187808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533afb08351944777cf66",
+        "timestamp": "1673868207808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533b9b08351944777cf69",
+        "timestamp": "1673868217808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533c3b08351944777cf6c",
+        "timestamp": "1673868227808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533e1a0a7d81d118308cb",
+        "timestamp": "1673868257808",
+        "hum": "55.5",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533eba0a7d81d118308ce",
+        "timestamp": "1673868267808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533f5a0a7d81d118308d1",
+        "timestamp": "1673868277808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c533ffa0a7d81d118308d4",
+        "timestamp": "1673868287808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c53409a0a7d81d118308d7",
+        "timestamp": "1673868297808",
+        "hum": "55.599998",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c5341dd2db0080ce9f9900",
+        "timestamp": "1673868317808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c53427d2db0080ce9f9903",
+        "timestamp": "1673868327808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c53431d2db0080ce9f9906",
+        "timestamp": "1673868337808",
+        "hum": "55.5",
+        "value": "22.4",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c5343bd2db0080ce9f9909",
+        "timestamp": "1673868347808",
+        "hum": "55.599998",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c534450b52372a8c64f05e",
+        "timestamp": "1673868357808",
+        "hum": "55.599998",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    },
+    {
+        "_id": "63c5344f0b52372a8c64f061",
+        "timestamp": "1673868367808",
+        "hum": "55.599998",
+        "value": "22.299999",
+        "sensorCode": "esp32_9C9D1C",
+        "creatorMessage": "Andrea",
+        "__v": 0
+    }
+]

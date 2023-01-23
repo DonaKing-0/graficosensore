@@ -1,0 +1,69 @@
+/*
+mongodb
+entity model msg con all msg values name    ok
+front end con grafico
+                            temp linee
+                            hum linee
+                            allarmi?
+
+bonus
+-alarm start con 20+ gradi  finisce se torna sotto
+        entita!!!
+
+-front umidita
+-fai vedere allarmi (anche finiti)
+
+MONGODB_URI=mongodb+srv://admin:0402Marco!@cluster0.ltb6d4p.mongodb.net/jac-iot?retryWrites=true&w=majority
+
+datalogs
+
+
+{
+  timestamp: 1673870047808,
+  hum: 56.599998,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+{
+  timestamp: 1673870057808,
+  hum: 56.599998,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+{
+  timestamp: 1673870067808,
+  hum: 56.700001,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+{
+  timestamp: 1673870077808,
+  hum: 56.599998,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+{
+  timestamp: 1673870087808,
+  hum: 56.700001,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+{
+  timestamp: 1673870097808,
+  hum: 56.700001,
+  value: 22.5,
+  free_ram: 159108,
+  total_ram: 236984,
+  sensorCode: 'esp32_9C9D1C'
+}
+*/

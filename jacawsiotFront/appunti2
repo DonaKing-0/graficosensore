@@ -1,0 +1,15 @@
+/*
+mongodb
+entity model msg con all msg values name    ok
+front end con grafico
+                            temp linee
+                            hum linee
+                            allarmi?
+
+bonus
+-alarm start con 20+ gradi  finisce se torna sotto
+        entita!!!
+
+-front umidita
+-fai vedere allarmi (anche finiti)
+*/
