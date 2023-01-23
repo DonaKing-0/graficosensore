@@ -51,6 +51,8 @@ const Alarm = ({dato})=>{
 
 }
 
+            const average = dato.temp.reduce((a, b) => a*1 + b*1, 0)/dato.temp.length;
+            console.log(average)
             const attivo= dato.attivo ? 'attivo' : 'inattivo';
               const df= new Date(dato.fine*1)
               const dfi=df.getDate()+'-'+(df.getMonth()+1)+'-'+df.getFullYear()+' '+df.getHours()
@@ -70,8 +72,9 @@ const Alarm = ({dato})=>{
                         inizio: {d.getDate()+'-'+(d.getMonth()+1)+'-'+d.getFullYear()+' '+d.getHours()}
                         <br></br>
                         fine: {dfine}
-                        <br>
-                        </br>
+                        <br></br>
+                        temp media: {average}
+                        <br></br>
                         <button type="button" class="btn btn-info" onClick={clic}>temp</button>
                         <p style={{display: disp}}>{dato.temp.map((x)=>{
                             return x+' - '
