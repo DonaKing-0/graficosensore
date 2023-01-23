@@ -42,6 +42,7 @@ const alert2=[
 
 const Listalarm = ()=>{
   const [alert, setAlert] = useState([]);
+  const [refresh, setRefresh] = useState(0);
 
     useEffect(() => {
       const didMount = async () => {
@@ -50,7 +51,12 @@ const Listalarm = ()=>{
           console.log(alert)
       }
       didMount()
-  }, [])
+  }, [refresh])
+
+const myTimeout = setTimeout(()=>{
+  setRefresh(refresh+1)
+  //console.log(refresh)
+}, 10000);
 
 //reverse
 console.log(alert)
